@@ -22,7 +22,7 @@ A Flutter-based chess game for macOS, featuring two-player mode, piece movement 
 ## Screenshots
 
 <!-- Add screenshots here -->
-[Screenshot1](screenshots/screenshot.png)
+![Screenshot1](screenshots/screenshot.png)
 <!-- ![Screenshot2](screenshots/screenshot2.png) -->
 
 ## Installation
